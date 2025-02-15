@@ -25,4 +25,5 @@ Events will be placed by date, the inclusion of any time stamps would be a great
 #### Images
 
 Images (or extra information such as videos) can be placed in `assets/YEAR.MO.DY/` of the event with a relevant name (using `snake_casing`) of the event its related to. e.g. `assets/2024.06.17/zephi_email.jpg`.
-Imaged can be linked into the timeline by using the Markdown formatting, following this standard: `![image_description](assets/YEAR.MO.DY/image.name)`.
+Images can be linked into the timeline by using the Markdown formatting, following this standard: `![image_description](assets/YEAR.MO.DY/image.name)`.
+Additionally, images can be added with normal HTML using `width` to make the image smaller if they appear too large in the document: `<img src="assets/YEAR.MO.DY/image.name" alt="image_description" width="300px">`
