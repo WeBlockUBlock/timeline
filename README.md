@@ -4,7 +4,7 @@
 
 This is a, as complete as possible, (W.I.P) timeline of the events that lead to uBlock (and other ad blockers) blocking Server Hosting banners Modder's have on their mod pages.
 This will be implemented into a website once enough of the main events have been documented.
-The current version of the Timeline can be found here in [ublock.md](ublock.md).
+The current version of the Timeline can be found here in [uBlock.md](uBlock.md).
 
 ## Contributing
 
